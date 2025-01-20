@@ -4,7 +4,7 @@
   "description": "Backend for PolyAgent Research Intelligence leveraging FastAPI, LangChain, OpenRouter",
   "main": "main.py",
   "scripts": {
-    "start": "python main.py",
+    "start": "uvicorn main:app --reload",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
