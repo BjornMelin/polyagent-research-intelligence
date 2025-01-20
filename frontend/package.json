@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.1",
-  "description": "Frontend for PolyAgent Research Intelligence leveraging Next.js, Tailwind CSS, Lucide, Radix UI, and more",
+  "description": "Frontend for PolyAgent Research Intelligence, leveraging Next.js, Tailwind CSS, Lucide, Radix UI, and more",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -18,14 +18,9 @@
     "@radix-ui/react-separator": "^1.1.1",
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-toast": "^1.2.4",
-    "@types/node": "^20.17.4",
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
     "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "eslint": "^8.57.1",
-    "eslint-config-next": "^14.2.23",
     "lucide-react": "^0.473.0",
     "next": "^14.2.23",
     "next-themes": "^0.4.4",
@@ -41,8 +36,15 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@eslint/config-array": "^0.19.1",
-    "@eslint/object-schema": "^2.1.5"
+    "@babel/core": "^7.26.0",
+    "@babel/eslint-parser": "^7.26.5",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@types/node": "^20.17.4",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.23"
   },
   "keywords": [
     "nextjs",
