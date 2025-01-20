@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.1",
+  "description": "Frontend for PolyAgent Research Intelligence leveraging Next.js, Tailwind CSS, Lucide, Radix UI, and more",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -42,5 +43,17 @@
   "devDependencies": {
     "@eslint/config-array": "^0.19.1",
     "@eslint/object-schema": "^2.1.5"
-  }
+  },
+  "keywords": [
+    "nextjs",
+    "tailwindcss",
+    "lucide",
+    "radixui",
+    "polyagent",
+    "research",
+    "intelligence",
+    "ai"
+  ],
+  "author": "Bjorn Melin",
+  "license": "MIT"
 }
