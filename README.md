@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Research System
+# 🧠 PolyAgent Research Intelligence
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -14,7 +14,7 @@
 
 ## 📑 Table of Contents
 
-- [🧠 Multi-Agent Research System](#-multi-agent-research-system)
+- [🧠 PolyAgent Research Intelligence](#-polyagent-research-intelligence)
   - [📑 Table of Contents](#-table-of-contents)
   - [🌟 Overview](#-overview)
   - [🚀 Getting Started](#-getting-started)
@@ -29,15 +29,15 @@
 
 ## 🌟 Overview
 
-The **Multi-Agent Research System** is a cutting-edge platform designed to revolutionize research by leveraging the power of multiple AI agents. This system allows users to input research topics, and then utilizes a team of specialized agents, orchestrated by LangChain and OpenRouter, to perform in-depth research, analysis, and report generation. The system is built with a modern web development stack, featuring a Next.js frontend and a FastAPI backend.
+The **PolyAgent Research Intelligence** is a cutting-edge platform designed to revolutionize research by leveraging the power of multiple AI agents. This system allows users to input research topics, and then utilizes a team of specialized agents, orchestrated by LangChain and OpenRouter, to perform in-depth research, analysis, and report generation. The system is built with a modern web development stack, featuring a Next.js frontend and a FastAPI backend.
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/BjornMelin/multi-agent-research-system.git
-   cd multi-agent-research-system
+   git clone https://github.com/BjornMelin/polyagent-research-intelligence.git
+   cd polyagent-research-intelligence
    ```
 
 2. **Install dependencies:**
@@ -107,7 +107,7 @@ graph TD
 ### File Tree
 
 ```markdown
-multi-agent-research-system/
+polyagent-research-intelligence/
 ├── .gitignore
 ├── pnpm-lock.yaml
 ├── pnpm-workspace.yaml
@@ -226,7 +226,7 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
