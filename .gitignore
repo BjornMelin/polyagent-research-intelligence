@@ -63,5 +63,9 @@ frontend/coverage/
 # pnpm specific
 .pnpm-debug.log*
 
+# Python
+.venv/
+.venv
+
 # repomix
 repomix-output.txt
